@@ -1,0 +1,9 @@
+openai
+loguru
+aiohttp
+requests
+tiktoken
+chromadb
+langchain
+nest_asyncio
+streamlit
