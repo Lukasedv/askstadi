@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
     git \
     && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/Lukasedv/AskAnything.git .
+RUN git clone https://github.com/Lukasedv/askstadi.git .
 
 RUN pip3 install -r requirements.txt
 
